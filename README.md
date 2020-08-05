@@ -1,1 +1,1 @@
-# scripts - Mainly for development of the EasternWeb project
+Scripts used for development of the EasternWeb project.
